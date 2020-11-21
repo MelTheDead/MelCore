@@ -1,0 +1,20 @@
+name: MelsCore
+main: MC\Main
+version: 1.0
+api: 3.0.0
+author: MelTheDead
+commands:
+  heal:
+    description: Heal Player
+    permission: heal.cmd
+  food:
+    description: Food Player
+    permission: food.cmd
+  spawn:
+    description: Teleport to Spawn
+  hub:
+    description: Teleport to Hub
+  hub:
+    description: Teleport to Hub
+  ok:
+    description: Stop SS

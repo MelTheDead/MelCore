@@ -1,0 +1,25 @@
+# ♡
+# @author: MelTheDead
+# ♡
+
+
+# HealMessage
+HealMessage: "§l§5Server>§r Sei stato Curato con successo!"
+
+# FoodMessage
+FoodMessage: "§l§5Server>§r Sei stato Sfamato con sucesso"
+
+# HubMessage
+HubMessage: "§l§5Server>§r Sei Ritornato alla Hub"
+
+# SpawnMessage
+SpawnMessage: "§l§5Server>§r Sei Ritornato allo Spawn"
+
+# SS
+Message: "§4§oScreenShare§8 >§c {player} is under ScreenShare"
+World: "Hub"
+
+
+# ♤
+# @plugin for servers
+# ♤
